@@ -1,5 +1,5 @@
 {
-  "name": "rc-speak-text",
+  "name": "rc-transcribe-speech",
   "version": "0.1.0",
   "description": "React component that uses the Web Speech API built into most modern browsers to transcribe spoken language.",
   "main": "build/index.js",
